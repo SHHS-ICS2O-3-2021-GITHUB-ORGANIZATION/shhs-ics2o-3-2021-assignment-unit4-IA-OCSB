@@ -18,3 +18,4 @@ else:
   counter = counter - count
   if counter == 0:
     print("Finished. Wow that took a long time and it is completely useless. ")
+   print("Hello")
