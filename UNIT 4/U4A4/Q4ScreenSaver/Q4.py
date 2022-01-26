@@ -1,3 +1,4 @@
+#import pygame to use it's abilities
 import pygame
 from pygame import Color, draw, display, time
 
@@ -17,6 +18,7 @@ color3 = input()
 print("How fast how you like your code to go?(the smaller the number the slower it goes)")
 speed = int(input())
 
+#variables
 x = 50
 y = 50
 
